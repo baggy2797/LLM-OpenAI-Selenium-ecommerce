@@ -31,4 +31,5 @@ This instruction is parsed by the LLM and executed step-by-step on the e-Commerc
 
 ## Run the Script
 
+pip install -r requirements.txt
 python llm_mcp_web_automation.py --url <website:www.example.com> --persona shopper
