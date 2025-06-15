@@ -28,3 +28,7 @@ This instruction is parsed by the LLM and executed step-by-step on the [TIRA Bea
 - BeautifulSoup (optional DOM parsing)
 
 ---
+
+## Run the Script
+
+python llm_mcp_web_automation.py --url https://www.tirabeauty.com --persona shopper
