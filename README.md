@@ -28,6 +28,3 @@ This instruction is parsed by the LLM and executed step-by-step on the [TIRA Bea
 - BeautifulSoup (optional DOM parsing)
 
 ---
-
-## 📁 File Structure
-
