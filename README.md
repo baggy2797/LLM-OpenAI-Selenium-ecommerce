@@ -6,7 +6,7 @@ This project showcases how to use a **Large Language Model (LLM)** to parse natu
 
 > "Search for matte lipstick and add the first product to the cart."
 
-This instruction is parsed by the LLM and executed step-by-step on the [TIRA Beauty](https://www.tirabeauty.com) website or any compatible e-commerce site.
+This instruction is parsed by the LLM and executed step-by-step on the e-Commerce website or any compatible e-commerce site.
 
 ---
 
@@ -31,4 +31,4 @@ This instruction is parsed by the LLM and executed step-by-step on the [TIRA Bea
 
 ## Run the Script
 
-python llm_mcp_web_automation.py --url https://www.tirabeauty.com --persona shopper
+python llm_mcp_web_automation.py --url <website:www.example.com> --persona shopper
